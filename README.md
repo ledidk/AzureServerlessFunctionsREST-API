@@ -29,8 +29,7 @@ A fun and inspiring REST API that serves developer quotes and motivational sayin
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd dev-quotes-api
+git clone https://github.com/ledidk/AzureServerlessFunctionsREST-API.git
 
 # Install dependencies
 npm install
